@@ -5,7 +5,10 @@
 
 ## Elevator Pitch
 
-This initiative constructs what is believed to be the first unified data model and ingestion platform for historical material related to transatlantic slavery. It consolidates shipping logs, estate ledgers, tax records, compensation data, and archival documents into an open, auditable “golden source.” Using modern AI and distributed contribution tools, the system builds a complete forensic chain of financial flows from capture to compensation. The result is a transparent foundation for researchers, policymakers, and descendant communities to examine slavery’s economic legacy with unprecedented clarity.
+This initiative constructs what is believed to be the first unified data model and ingestion platform for historical material related to transatlantic slavery.  
+It consolidates shipping logs, estate ledgers, tax records, compensation data, and archival documents into an open, auditable “golden source.”  
+Using modern AI and distributed contribution tools, the system builds a complete forensic chain of financial flows from capture to compensation.  
+The result is a transparent foundation for researchers, policymakers, and descendant communities to examine slavery’s economic legacy with unprecedented clarity.
 
 ---
 
